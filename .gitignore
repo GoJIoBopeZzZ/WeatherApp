@@ -32,6 +32,9 @@ proguard/
 # Android Studio captures folder
 captures/
 
+# Gradle properties for other keys
+gradle.properties
+
 # IntelliJ
 *.iml
 .idea
@@ -45,4 +48,3 @@ captures/
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
-fabric.properties
